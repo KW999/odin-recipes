@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    background-color: orange;}
+
+.image {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+body {
+    background-color: rgba(120, 50, 0, 0.3)}
+
+.background {
+    background-image: url(images/background.jpg);}
+
+.index {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orange;
+    text-align: center;}
+
+
+
